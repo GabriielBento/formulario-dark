@@ -1,4 +1,4 @@
-@import @import url('https://fonts.googleapis.com/css2?fam...
+
 
 
 :root {
@@ -13,7 +13,7 @@
   --color-purple-200: #bf46ef;
 
   --color-gradient: linear-gradient(90deg, var(var(--color-purple-50), var(--color-purple-100), var(--color-purple-200)))
-
+}
 
 * { 
  font-family: 'Poppins' sans-serif;
